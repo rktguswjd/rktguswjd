@@ -1,4 +1,4 @@
-### Hi there👋 I'm Hyunjeong, a sprout developer🌱
+### Hi there👋 I'm Hyunjeong, a sprout developer :)
 
 - 🦄 My dream is to be an FE developer.
 - ✨ I mainly use JavaScript and React.
